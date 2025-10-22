@@ -1,15 +1,13 @@
-<!-- markdownlint-disable-next-line -->
-<p align='center'>
-  <!-- markdownlint-disable-next-line -->
+<p align="center">
   <picture>
-    <!-- markdownlint-disable-next-line -->
-    <source media="(prefers-color-scheme: dark)" srcset="..//logo.png">
-    <!-- markdownlint-disable-next-line -->
-    <img alt="Nx - Smart Repos · Fast Builds" src="..//logo.png" width="200">
+    <source media="(prefers-color-scheme: dark)" srcset="../logo.png" />
+    <img alt="logo" src="../logo.png" width="250" />
   </picture>
+</p>
 
-  <!-- markdownlint-disable-next-line -->
-  <h1 align='center'>spellbookx</h1>
-  <!-- markdownlint-disable-next-line -->
-  <p align='center'>Crafting magical developer toolchains, automation, environments, and wizards for devs</p>
+<h1 align="center">spellbookx</h1>
+<p align="center">
+  <strong>
+    Crafting magical developer toolchains, automation, environments, and wizards for devs
+  </strong>
 </p>
